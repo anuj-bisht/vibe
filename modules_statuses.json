@@ -1,0 +1,10 @@
+{
+    "Master": true,
+    "Product": true,
+    "Corporate": true,
+    "Order": true,
+    "User": true,
+    "Report": true,
+    "Retail": true,
+    "Customer": true
+}
